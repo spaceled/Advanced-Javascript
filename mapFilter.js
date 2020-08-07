@@ -28,8 +28,8 @@ const result = numbers.map(x => x * x);
 console.log(result);
 
 //  Filter: To select something
-const result = numbers.filter(x => x > 5);
-console.log(result);
+const result2 = numbers.filter(x => x > 5);
+console.log(result2);
 
 // Find
 const isThere = numbers.find(x => 5);
